@@ -8,7 +8,7 @@ published: true
 
 ## はじめに
 
-こんにちは、竹内（[@htake1126](https://twitter.com/htake1126)）です。
+こんにちは、竹内です。
 
 普段は Microsoft で Power Platform（Power Apps / Power Automate / Copilot Studio）のサポートエンジニアとして、法人のお客様からの技術的なお問い合わせに対応しています。
 
